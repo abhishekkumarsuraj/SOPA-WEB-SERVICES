@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailResponse xmlns="http://suraj.org/courses"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://suraj.org/courses Course-Detail">
+        <CourseDetails>
+           <id>123</id>
+           <name>Spring Boot Web Services</name>
+           <description>You learned the basics of the Spring Framework !</description>
+        </CourseDetails>
+</GetCourseDetailResponse>

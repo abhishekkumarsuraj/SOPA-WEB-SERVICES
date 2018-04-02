@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailRequest xmlns="http://suraj.com/courses" 
+xsi:schemaLocation="http://suraj.com/courses Course-Detail.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <id>34</id>
+</GetCourseDetailRequest>
